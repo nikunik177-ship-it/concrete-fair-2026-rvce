@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #1a0710; color: #eadfd4; font-family: 'DM Sans', sans-serif; }
+.font-mono-tech { font-family: 'DM Mono', monospace; }
+.font-serif-editorial { font-family: 'Playfair Display', serif; }
+button { font: inherit; }
